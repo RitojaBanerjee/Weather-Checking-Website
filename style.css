@@ -1,0 +1,34 @@
+.weather{
+    display:none;
+}
+
+.error{
+    display: none;
+}
+
+.search input{
+    outline: 0;
+    border-radius: 30px;
+}
+
+.search button{
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+#info{
+    background-color: aliceblue;
+}
+
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.center td{
+    padding: 40px;
+}
